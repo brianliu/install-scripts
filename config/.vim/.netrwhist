@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/brian/Documents/word_game'
+let g:netrw_dirhist_2='/home/brian/Documents/bookmarklet'
+let g:netrw_dirhist_3='/home/brian/Documents/bookmarklet/public'
+let g:netrw_dirhist_4='/home/brian/Documents/word_game/public'
+let g:netrw_dirhist_5='/home/brian/Documents/word_game/public/images'
+let g:netrw_dirhist_6='/home/brian/Documents/word_game/public/javascripts'
