@@ -5,3 +5,4 @@ cd node
 ./configure && sudo make && sudo make install
 cd ..
 sudo rm -rf node
+curl http://npmjs.org/install.sh | sh

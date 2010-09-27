@@ -21,3 +21,4 @@ rvm gemset create rails3
 rvm gemset use rails3
 gem install rails --pre
 gem install bundler
+rvm gemset create global
